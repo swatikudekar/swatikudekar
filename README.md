@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @swatihande
-- 👀 I’m interested in earn moneys and also enjoy happy and healthy life
-- 🌱 I’m currently learning data analysis with python
+- 👋 Hi, I’m @swatikudekar from last 4 years I am working as a data analyst and automation.
+- 👀 I am good in python SQL and power BI.
+- 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on linkdln
 - 📫 How to reach me mail me on my personal id swatikudekar1@gmail.com
 - 😄 Pronouns:swati only
-- ⚡ Fun fact: always smile
+- ⚡ Fun fact: always ready to help others and follow timelines.
 
 <!---
 swatihande/swatihande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
